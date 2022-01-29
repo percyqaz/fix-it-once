@@ -9,6 +9,8 @@ Whenever I have to spend more than 10 minutes googling to do something I've alre
 
 [Prune local Git branches once merged](https://stackoverflow.com/a/6127884/12653618)
 
+[Fix partitions on USB drive](https://www.pendrivelinux.com/restoring-your-usb-key-partition/)
+
 # Likely todo list
 
 Audio/video file format converter script (using FFMPEG)
