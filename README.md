@@ -22,3 +22,5 @@ Batch image manipulation scripts with GIMP
 Links to working OpenGL snippets for certain purposes
 
 Shortcut/command cheatsheets for software I use
+
+Github actions to build and package libraries via GH packages if all tests pass + Github actions to reference GH packages
