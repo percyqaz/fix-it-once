@@ -1,0 +1,36 @@
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+choco install git
+choco install googlechrome
+choco install zoom
+choco install python3
+choco install notepadplusplus
+choco install 7zip
+choco install nodejs
+choco install vscode
+choco install docker-desktop
+choco install autohotkey
+choco install filezilla
+choco install curl
+choco install gimp
+choco install spotify
+choco install keepass
+choco install openssl
+choco install audacity
+choco install ruby
+choco install ffmpeg
+choco install wsl2
+choco install onenote
+choco install obs-studio
+choco install intellijidea-community
+choco install steam
+choco install discord
+choco install dotnet-sdk
+choco install sharex
+choco install ilspy
+choco install visualstudio2022community
+choco install rust
+choco install sqlitebrowser
+choco install obsidian
+choco install anki
+choco install typescript
